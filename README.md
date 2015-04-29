@@ -4,7 +4,7 @@
 
 Project based on [Microsoft's MSDN Example](https://code.msdn.microsoft.com/windowsdesktop/SerialPort-brief-Example-ac0d5004) and [Microsoft's SerialPort Class Example](https://msdn.microsoft.com/en-us/library/system.io.ports.serialport%28v=vs.110%29.aspx).
 
-Serial-PIC16F84-Calc is a simple calculator implemented in C#. For this project we use a (Matrix Keypad)[http://i.imgur.com/JS5WchN.png].
+Serial-PIC16F84-Calc is a simple calculator implemented in C#. For this project we use a [Matrix Keypad](http://i.imgur.com/JS5WchN.png).
 
 The basic code for this project opens up a window where the user can select the COM port to be used, baud rate, data bits, parity and stop bits. It contains also an empty window where the data output will be shown.
 
