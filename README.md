@@ -18,4 +18,4 @@ Contact:
    - [Alan Andrés Mar Herrrera](alan75_mar@hotmail.com)
    - [Jesus Angel Salazar Marcatoma](missing@gmail.com)
 
-License: [MIT](http://opensource.org/licenses/MIT)
+License: [MIT](https://github.com/dagonar/Serial-PIC16F84-Calc/blob/master/LICENSE.md)
