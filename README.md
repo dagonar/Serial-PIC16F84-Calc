@@ -2,7 +2,7 @@
 ### Version
 0.1
 
-Project based on [Microsoft's MSDN Example](https://code.msdn.microsoft.com/windowsdesktop/SerialPort-brief-Example-ac0d5004).
+Project based on [Microsoft's MSDN Example](https://code.msdn.microsoft.com/windowsdesktop/SerialPort-brief-Example-ac0d5004) and [Microsoft's SerialPort Class Example](https://msdn.microsoft.com/en-us/library/system.io.ports.serialport%28v=vs.110%29.aspx).
 
 Serial-PIC16F84-Calc is a simple calculator implemented in C#. For this project we use a (Matrix Keypad)[http://i.imgur.com/JS5WchN.png].
 
